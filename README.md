@@ -26,4 +26,4 @@ KQRBNP = number of kings, queens, rooks, bishops, knights and pawns
 D,S,I = doubled, blocked and isolated pawns
 M = Mobility (the number of legal moves)
 ```
-[url] https://chessprogramming.wikispaces.com/Evaluation
+**Reference from** https://chessprogramming.wikispaces.com/Evaluation
